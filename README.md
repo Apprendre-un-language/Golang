@@ -1,21 +1,5 @@
 # Golang
 
----
-name: Go
-category: language
-language: Go
-lang: fr-fr
-filename: learngo-fr.go
-contributors:
-    - ["Sonia Keys", "https://github.com/soniakeys"]
-    - ["Christopher Bess", "https://github.com/cbess"]
-    - ["Jesse Johnson", "https://github.com/holocronweaver"]
-    - ["Quint Guvernator", "https://github.com/qguv"]
-    - ["Jose Donizetti", "https://github.com/josedonizetti"]
-    - ["Alexej Friesen", "https://github.com/heyalexej"]
-    - ["Jean-Philippe Monette", "http://blogue.jpmonette.net/"]
----
-
 Go a été créé dans l'optique de développer de façon efficace. Ce n'est pas la
 dernière tendance en ce qui est au développement, mais c'est la nouvelle façon
 de régler des défis réels de façon rapide.
